@@ -1,0 +1,146 @@
+/******************** SIDEBAR *************************/
+
+#sidebar {
+    position: absolute;
+    z-index: 1012022;
+    top: 60px;
+    right: 10px;
+    width: 150px;
+  }
+  
+  
+  /******************** LEGEND *************************/
+  
+  .av {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+  }
+  
+  .caption {
+    display: inline-block;
+  }
+  
+  #legend {
+    z-index: 1012022;
+    background: rgba(12, 12, 12, 0.85);
+    font-size: 12px;
+  }
+  
+  #legend-content {
+    padding: 5px;
+    display: block;
+  }
+  
+  .line {
+    line-height: 18px;
+    display: flex;
+  }
+  
+  #pop_0 {
+    color: #FFF7EC;
+  }
+  
+  #pop_100 {
+    color: #fee8c8;
+  }
+  
+  #pop_200 {
+    color: #fdd49e;
+  }
+  
+  #pop_400 {
+    color: #fdbb84;
+  }
+  
+  #pop_800 {
+    color: #fc8d59;
+  }
+  
+  #pop_1600 {
+    color: #ef6548;
+  }
+  
+  #pop_3200 {
+    color: #d7301f;
+  }
+  
+  #pop_6400 {
+    color: #b30000;
+  }
+  
+  #pop_12800 {
+    color: #7f0000;
+  }
+  
+  
+  /******************** NEIGHBORHOOD FILTER *************************/
+  
+  .av2 {
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
+  #cbs {
+    z-index: 1012022;
+    background: rgba(12, 12, 12, 0.85);
+    font-size: 12px;
+  }
+  
+  #cbs-content {
+    padding: 5px;
+    display: block;
+    margin-top: 10px;
+  }
+  
+  
+  /******************** STATS LEGEND *************************/
+  
+  #diff_n4000 {
+    color: #d73027;
+  }
+  
+  #diff_n2000 {
+    color: #f46d43;
+  }
+  
+  #diff_n1000{
+    color: #fdae61;
+  }
+  
+  #diff_n500 {
+    color: #fee08b;
+  }
+  
+  #diff_500 {
+    color: #ffffbf;
+  }
+  
+  #diff_2000 {
+    color: #d9ef8b;
+  }
+  
+  #diff_4000 {
+    color: #a6d96a;
+  }
+  
+  #diff_12000 {
+    color: #66bd63;
+  }
+  
+  #diff_32000 {
+    color: #1a9850;
+  }
+  
+  #statslegend {
+    z-index: 1012022;
+    background: rgba(12, 12, 12, 0.85);
+    font-size: 12px;
+  }
+  
+  #statslegend-content {
+    padding: 5px;
+    display: none;
+  }
+  

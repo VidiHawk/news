@@ -1,0 +1,78 @@
+#info {
+    position: absolute;
+    z-index: 1012022;
+    top: 60px;
+    left: 10px;
+    width: 300px;
+    background: rgba(12, 12, 12, 0.8);
+    color: #eee;
+    padding: 10px;
+    display: none;
+   }
+   
+   #info-content {
+    font-size: 13px;
+   }
+   
+   #info-header {
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-align: left;;
+    font-size: 15px;
+   }
+   
+   .item {
+     font-size: 12px;
+     line-height: 22px;
+     cursor: pointer;
+   }
+   
+   .item-id {
+     display: inline-block;
+   }
+   
+   .item-name {
+     display: inline-block;
+   }
+   
+   .item-value {
+     display: inline-block;
+     float: right;
+   }
+   
+   /* .param-subheader {} */
+   
+   .param {
+     line-height: 28px;
+   }
+   
+   .param-value {
+     float: right;
+     display: inline-block;
+     color: #eee;
+     font-size: 14px;
+   }
+   
+   .param-caption {
+     display: inline-block;
+     color: #ccc;
+     font-size: 12px;
+   }
+   
+   .x.axis text,
+   .y.axis text {
+     fill: #aaa;
+     font-size: 10px;
+   }
+   
+   .x.axis line,
+   .y.axis line {
+     stroke: #aaa;
+   }
+   
+   .x.axis path,
+   .y.axis path {
+     fill: none;
+     stroke: #666;
+   }
+   

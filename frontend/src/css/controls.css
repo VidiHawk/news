@@ -1,0 +1,25 @@
+#controls {
+    z-index: 101010;
+    position: absolute;
+    left: 50%;
+    bottom: 30px;
+    margin-left: -250px;
+    width: 500px;
+    text-align: center;
+    color: #fff
+  }
+  
+  #slider-area-b {
+    display: inline-block;
+    width: 300px;
+    background: rgba(0,0,0,0.5);
+    line-height: 30px;
+  }
+  
+  #slider-area-t {
+    display: inline-block;
+    width: 300px;
+    background: rgba(0,0,0,0.5);
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
