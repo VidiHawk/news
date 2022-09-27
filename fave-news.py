@@ -1,3 +1,6 @@
+# https://quillbot.com for rewriting articles
+
+
 from newspaper import build
 from newspaper import Article
 from textblob import TextBlob
